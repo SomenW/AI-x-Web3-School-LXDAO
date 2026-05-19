@@ -9,3 +9,10 @@ AI × Web3 学习路径：
 问题：
 
 下一步行动
+
+第一周任务
+任务 2｜创建个人 GitHub repo 作为学习工作区
+从 Week 1 开始创建一个公开或私有 GitHub repo，作为后续所有课程实验、学习笔记、demo、prompt、agent 配置和复盘记录的统一入口。
+建议 repo 结构：README.md、notes/、prompts/、demos/、logs/、resources.md。后续每周任务都在这个 repo 中持续更新，而不是散落在聊天记录或临时文档里。
+提交本周完成证明：repo 链接、README 截图或 commit 记录、learning agent 配置说明、一次 agent 协助学习 / 编码 / 整理资料的日志。
+任务 3｜用 agent 生成可交互学习产物
